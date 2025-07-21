@@ -1,7 +1,7 @@
 from llamaapi import LlamaAPI
 import json
 
-llama = LlamaAPI('LL-Y0aIkdke2BSknalMqAraW8Gx0AfTorcIJ7EekgRbxpDWkvEqqY7vbP4riZPEQSU7')
+llama = LlamaAPI('<replace with your key>')
 
 # API Request JSON Cell
 api_request_json = {
